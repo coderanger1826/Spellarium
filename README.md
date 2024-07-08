@@ -11,6 +11,6 @@ Features
 Installation
 To get started with Spellarium, follow these steps:
 
-Clone the repository:
-git clone https://github.com/coderanger1826/Spellarium.git
-cd Spellarium
+1. Clone the repository:
+  git clone https://github.com/coderanger1826/Spellarium.git
+2. cd Spellarium
