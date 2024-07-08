@@ -1,4 +1,3 @@
-Spellarium
 Spellarium is a powerful word suggestion and auto-correct tool designed to enhance text input accuracy. It combines multiple advanced algorithms and data structures to provide efficient and accurate word suggestions and corrections.
 
 Features
