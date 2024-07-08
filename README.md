@@ -8,7 +8,6 @@ Features
 5. Jaro-Winkler Distance: String metric measuring edit distance with better results for shorter strings.
 6. Multithreading: Enhances performance by parallelizing tasks.
 
-Installation
 To get started with Spellarium, follow these steps:
 
 1. Clone the repository:
